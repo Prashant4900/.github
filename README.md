@@ -14,8 +14,17 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
+<!-- ## 🧐 About -->
+<!-- - 🔭 I’m currently working on Adjust SDK -->
+<!-- - 🌱 I’m currently learning Property based testing -->
+<!-- - 👯 I’m Robolectric and AWS Amplify Contributor -->
+<!-- - 🤔 I’m looking for help with Data Structure and Algorithm -->
+<!-- - 💬 Ask me about Android App Development or any tech related stuff -->
+<!-- - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio -->
+
+<!--
 ---
 ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/prashant4900) 
 
-[![](https://visitcount.itsvg.in/api?id=Prashant4900&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Prashant4900&icon=5&color=11)](https://visitcount.itsvg.in) -->
