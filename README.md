@@ -1,6 +1,6 @@
 
 ## 🌐Socials
-[![Linkedin Badge](https://img.shields.io/badge/-prashant4900-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prashant4900/)](https://www.linkedin.com/in/prashant4900/) [![Web Badge](http://img.shields.io/badge/-Resume-1ca0f1?style=social&logo=dropbox&logoColor=blue&link=https://drive.google.com/drive/folders/1F04EySjsho6Y1RMVIKpIIYRFWfb1VbAZ?usp=sharing)](https://drive.google.com/drive/folders/1F04EySjsho6Y1RMVIKpIIYRFWfb1VbAZ?usp=sharing) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prashantnigam490@gmail.com)](mailto:prashantnigam490@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-prashant4900-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prashant4900/)](https://www.linkedin.com/in/prashant4900/) [![Web Badge](http://img.shields.io/badge/-Resume-1ca0f1?style=social&logo=dropbox&logoColor=blue&link=https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view)](https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prashantnigam490@gmail.com)](mailto:prashantnigam490@gmail.com)
 
 
 # 💻Tech Stack
